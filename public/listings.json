@@ -1,0 +1,33 @@
+{
+	"listingID": 1,
+	"listingName": "Espacio espectacular en Tokio",
+	"listingDescription": "Ubicado en el corazón de Shibuya. Este espacio de 300m2 con espectaculares vistas a la ciudad está lleno de experiencias de inspiración y crecimiento. Podrás venir a trabajar de forma individual y encontrar un oasis de inspiración y productividad.",
+	"pricePerHour": 125,
+	"schedule": [{
+			"Monday": "08:00-23:00"
+		},
+		{
+			"Tuesday": "08:00-23:00"
+		},
+		{
+			"Wednesday": "08:00-23:00"
+		},
+		{
+			"Thursday": "08:00-23:00"
+		},
+		{
+			"Friday": "08:00-23:00"
+		}
+	],
+	"listingBusy": [{
+			"startDateTime": "2022-02-15T08:00:00",
+			"endDateTime": "2022-02-15T10:30:00",
+			"status": "booked"
+		},
+		{
+			"startDateTime": "2022-02-15T12:00:00",
+			"endDateTime": "2022-02-15T17:00:00",
+			"status": "blocked"
+		}
+	]
+}
