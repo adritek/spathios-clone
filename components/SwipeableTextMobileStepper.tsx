@@ -15,7 +15,7 @@ const AutoPlaySwipeableViews = autoPlay(SwipeableViews);
 
 const images = [
   {
-    label: 'hi',
+    label: '',
     imgPath: 'images/MG_3296-2.jpeg',
   },
   // {

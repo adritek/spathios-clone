@@ -6,8 +6,17 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+main {
+  display:flex;
+  align-items: center;
+  margin: 0 auto;
+}
+
 .Button {
   background-color: #ff5a00;
+}
+.Button:hover{
+  background-color: #ff7b33;
 }
 
 a {
